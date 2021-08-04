@@ -49,7 +49,7 @@ Making some Telegram Bots & other iStupid Tools & Websites .
   
 ###  Most Language I Used And GitHub Stats 
   
-<img align="left" alt="BlackBox-cmd's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBox-cmd&layout=compact" />
+<img align="left" alt="BlackBox-cmd's Most Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBox-cmd&layout=compact" />
 
 
 
