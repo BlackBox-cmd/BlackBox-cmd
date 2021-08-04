@@ -13,7 +13,7 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to Collaborate with other Freak Like Me 🤪
 - 🥅 2021 Goals: Contribute more to Open Source projects And Fllow My Dream .
-- ⚡ Fun Fact : I love to Travels & Learning Hinduism
+- ⚡ Fun Fact : I love to Travels & Learning Hinduism 🙏
 ### Connect with me:
 
 [<img align="left" alt="kallanbiswas.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -21,7 +21,7 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 [<img align="left" alt="BiswasKallan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kallan-biswas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kbbiswas007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="kbbiswas007 | Telegram" width="22px" src="https://camo.githubusercontent.com/83f20299dbf7252a74cacc234a59106d112ebd49c8708591f65ed17d61a76fe8/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f74656c656772616d2d6170702e706e67" />][telegram]
+[<img align="left" alt="kbbiswas007 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 
 <br />
