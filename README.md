@@ -21,6 +21,8 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 [<img align="left" alt="BiswasKallan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kallan-biswas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kbbiswas007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kbbiswas007 | Telegram" width="22px" src="https://camo.githubusercontent.com/83f20299dbf7252a74cacc234a59106d112ebd49c8708591f65ed17d61a76fe8/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f74656c656772616d2d6170702e706e67" />][telegram]
+
 
 <br />
 
@@ -71,3 +73,4 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/kbbiswas007/
 [linkedin]: https://www.linkedin.com/in/kallan-biswas
+[telegram]: https://t.me/blackboxcmd
