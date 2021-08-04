@@ -66,7 +66,6 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 
   <img align="left" alt="BlackBox-cmd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlackBox-cmd&show_icons=true&theme=radical" />
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </details>
 
 [website]: https://kallanbiswas.ga/
