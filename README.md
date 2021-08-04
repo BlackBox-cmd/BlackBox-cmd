@@ -48,11 +48,14 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 
 ---
 
+<details>
+
   <summary>:zap: Most Language I Used </summary>
   
   <img align="left" alt="BlackBox-cmd's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBox-cmd&layout=compact" />
 
-
+</details>
+   
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
