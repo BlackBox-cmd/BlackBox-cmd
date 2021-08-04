@@ -64,9 +64,7 @@ Making some Telegram Bots & other iStupid Tools & Websites .
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="BlackBox-cmd's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlackBox-cmd&show_icons=true&theme=radical" />
-  Most Language I Used
-  <img align="right" alt="BlackBox-cmd's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBox-cmd&layout=compact" />
-
+  
 [website]: https://kallanbiswas.ga/
 [twitter]: https://twitter.com/BiswasKallan
 [youtube]: https://youtube.com/codeSTACKr
