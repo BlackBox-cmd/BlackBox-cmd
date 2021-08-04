@@ -1,3 +1,5 @@
+### Har Har Mahadev
+
 ### Hi there, I'm Kallan Biswas - aka [BlackBox-cmd][website] 👋
 
 [![Website](https://img.shields.io/website?label=kallanbiswas.ga&style=for-the-badge&url=https://kallanbiswas.ga)](https://kallanbiswas.ga)
@@ -9,8 +11,8 @@ Making some Telegram Bots & other iStupid Tools & Websites .
    This Makes Me Happy 🤗
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to Collaborate with other Freak Like Me 🤪
+- 🥅 2021 Goals: Contribute more to Open Source projects And Fllow My Dream .
 - ⚡ Fun Fact : I love to Travels & Learning Hinduism
 ### Connect with me:
 
