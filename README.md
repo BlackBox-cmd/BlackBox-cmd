@@ -11,7 +11,7 @@ Making some Telegram Bots & other iStupid Tools & Websites .
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to Collaborate with other Freak Like Me 🤪
-- 🥅 2021 Goals: Contribute more to Open Source projects And Follow My Dream .
+- 🥅 2022 Goals: Contribute more to Open Source projects And Follow My Dream .
 - ⚡ Fun Fact : I love to Travels & Learning Hinduism 🙏
 ### Connect with me:
 
